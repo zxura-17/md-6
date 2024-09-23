@@ -1,0 +1,340 @@
+{
+  "users": {
+    "6289513081052@s.whatsapp.net": {
+      "serialNumber": "4ebd1f1e5d6e57d42b5981e1a96fe691",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Adrian",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285774589070@s.whatsapp.net": {
+      "serialNumber": "11f3f932353e43fd921b8147ef267b07",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "ꜱʏᴀʀɪꜰᴀʜ ꜰɪʀᴀʜ ᴀᴢ ᴢᴀʜʀᴀ",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6282111238631@s.whatsapp.net": {
+      "serialNumber": "95163384c05d7e71eab10f4c5fe269e5",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 821-1123-8631",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285817793800@s.whatsapp.net": {
+      "serialNumber": "b5b3e61be7c95794cbe66ae9169eb9f1",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "silvi rawrr",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "62895402136020@s.whatsapp.net": {
+      "serialNumber": "dcf5f7c97d9f9e810f704e7417f69b75",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "akbar nak tido jelah😅",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6282192533115@s.whatsapp.net": {
+      "serialNumber": "38d46397d65ac15ba7e1e32ed96baf7f",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "RZXYYYYTZY",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6283140667788@s.whatsapp.net": {
+      "serialNumber": "975bc067fb155984639fc1334e81381d",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "kia gemes cinta brazil",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "628388998443@s.whatsapp.net": {
+      "serialNumber": "d08dbf5b4a12bdfb1e303bfc607257cb",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": ".",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6283178462113@s.whatsapp.net": {
+      "serialNumber": "2a602e2f2058dde2090e8bbd3d48ed3d",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "ZAZAYYUU SI MONYEY",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6282298580896@s.whatsapp.net": {
+      "serialNumber": "cbbfe91dca8035c617990e55f49e5794",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Bayu Dimas",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6281944160097@s.whatsapp.net": {
+      "serialNumber": "d833232dad635605abd4ae5977b4d97d",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "™",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285971731747@s.whatsapp.net": {
+      "serialNumber": "a1a3987a94dd13b3598609e7420ce050",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "𝐺𝑜𝑇𝑜 𝐵𝑂𝑇",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "62895396332008@s.whatsapp.net": {
+      "serialNumber": "ce3700b7fbd8569c5f554afdb222c87f",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "roy",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6282143915169@s.whatsapp.net": {
+      "serialNumber": "ee3a35b24d52143a4525b0c34db696a7",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "dindaa kiyutt",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    }
+  },
+  "chats": {
+    "6289513081052@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6285774589070@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6282111238631@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363046291688395@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363332018245889@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6282192533115@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363291576012861@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6281944160097@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    }
+  },
+  "game": {
+    "family100": [],
+    "tebaklagu": [],
+    "kuismath": [],
+    "tebalgambar": [],
+    "tebakkata": [],
+    "tebakkalimat": [],
+    "tebaklirik": [],
+    "tebaktebakan": [],
+    "tebakbendera": [],
+    "tebakbendera2": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebakasahotak": [],
+    "tebaksiapakahaku": [],
+    "tebaksusunkata": [],
+    "tebaktekateki": [],
+    "akinator": []
+  },
+  "settings": {
+    "6287778401792@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "typemenu": "v2",
+      "typereply": "v1",
+      "autobio": false,
+      "autoread": false,
+      "onlyindo": false,
+      "watermark": {
+        "packname": "",
+        "author": ""
+      },
+      "about": {
+        "bot": {
+          "nick": "PT. AdrianProject",
+          "alias": "Arxzy-MD"
+        },
+        "owner": {
+          "alias": "-"
+        }
+      },
+      "autoblok212": true
+    },
+    "62895320660901@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "typemenu": "v2",
+      "typereply": "v1",
+      "autobio": false,
+      "autoread": false,
+      "onlyindo": false,
+      "watermark": {
+        "packname": "",
+        "author": ""
+      },
+      "about": {
+        "bot": {
+          "nick": "𝚂𝚊𝚗 𝚂𝚊𝚗",
+          "alias": "Queen Elisa Bot"
+        },
+        "owner": {
+          "nick": "ꜱʏᴀʀɪꜰᴀʜ ꜰɪʀᴀʜ ᴀᴢ ᴢᴀʜʀᴀ",
+          "alias": "6285774589070"
+        }
+      },
+      "autoblok212": true
+    },
+    "6282111238631@s.whatsapp.net": {
+      "totalhit": 0,
+      "totalError": 0,
+      "typemenu": "v3",
+      "typereply": "v2",
+      "autobio": false,
+      "autoread": false,
+      "onlyindo": false,
+      "watermark": {
+        "packname": "",
+        "author": ""
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 821-1123-8631",
+          "alias": "Queen Elisa Bot"
+        },
+        "owner": {
+          "nick": "+62 857-7458-9070",
+          "alias": "6285774589070"
+        }
+      },
+      "autoblok212": true
+    }
+  }
+}
